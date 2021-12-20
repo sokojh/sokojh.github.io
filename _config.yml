@@ -70,7 +70,7 @@ content:
         quote: >
           반려동물을 "솜뭉치"라는 타이틀로 누구나 호감가는 단어를 선정하여 채택했습니다.
         description: | # this will include new lines to allow paragraphs
-          DB는 빠른 응답과 병목현상이 거의 없는 NoSQL <mark>MongoDB<mark>를 사용했습니다. 이미지서버는 대규모 부하를 견딜수있는 AWS EC2를 통해 구축했습니다.
+          DB는 빠른 응답과 병목현상이 거의 없는 NoSQL <mark>MongoDB<mark>를 사용했습니다. 이미지서버는 대규모 부하를 견딜수있는 AWS S3를 통해 구축했습니다.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
