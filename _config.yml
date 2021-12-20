@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: [주간솜뭉치 팀 프로젝트](https://lofty-aerosteon-2dd.notion.site/4e05b39647924e1b92a4bc2345fb212c)
+        title: 주간솜뭉치 팀 프로젝트
         link: https://github.com/sokojh/nodejs_Project00
         # link_text: Project Website
         additional_links:
