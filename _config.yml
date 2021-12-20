@@ -4,7 +4,7 @@ repository: sproogen/resume-theme
 
 # Content configuration version
 version: 2
-
+encoding: UTF-8
 # Personal info
 name: 김지호
 title: Node.js & JAVA Backend Application Developer.
