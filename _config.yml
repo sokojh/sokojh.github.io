@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 김지호
-title: Backend Application Developer.
+title: Node.js & JAVA Backend Application Developer.
 email: sokojiho2@gmail.com
 website: https://sokojh.tistory.com/
 
@@ -48,57 +48,63 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  <mark>Java & Spring<mark> / <mark>NodeJS<mark>기반 신입 백엔드 개발자입니다.
+  개인적인 개발 흥미보다, 비즈니스적인 생각과 회사,팀에 도움이 되는 개발을 하기 위해 대규모 MAU를 버틸수있는 아키텍쳐와 AWS 인프라 구축을 위한
+  공부를 하는중이며, 이것에 대한 프로젝트는 Node.js 기반 [주간솜뭉치]("https://lofty-aerosteon-2dd.notion.site/4e05b39647924e1b92a4bc2345fb212c")라는 프로젝트를 진행하였습니다. (이미지서버를 AWS EC2를 이용해 구축하였습니다.) 
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sokojh
+        title: [주간솜뭉치 팀 프로젝트]("https://lofty-aerosteon-2dd.notion.site/4e05b39647924e1b92a4bc2345fb212c")
+        link: https://github.com/sokojh/nodejs_Project00
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  주간솜뭉치
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/sokojh/nodejs_Project00
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          반려동물을 "솜뭉치"라는 타이틀로 누구나 호감가는 단어를 선정하여 채택했습니다.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          DB는 빠른 응답과 병목현상이 거의 없는 NoSQL <mark>MongoDB<mark>를 사용했습니다. 이미지서버는 대규모 부하를 견딜수있는 AWS EC2를 통해 구축했습니다.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: dcinside
+        link: dcinside.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Internship
+        caption: 2020.08~ 2020.09
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          서버감시/유저컨텐츠팀 
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+            서버감시/유저컨텐츠팀에서는 고객들이 올린 양질의 컨텐츠를 판별하여, 퇴근전에 취합해야하는 일을 진행하였습니다. 기존에 하던 방식은 모든 컨텐츠를 직접 다 확인하며, 골라야했었는데 디시인사이드 1일 페이지뷰는 약 1억2천만회이고, 글작성수는 약 100만건입니다. 따라서 매우 비효율적이고 오래걸리는 작업이였습니다. 그래서 어떻게하면 양질의 컨텐츠를 빠르게 취합하고 보고할수있을까라는 생각이 자연스럽게 떠올라, 퇴근해서도 계속 생각을 해보았습니다. 그러다 Big data의 텍스트 마이닝 기법을 이용하면 통계를 통해, 양질의 컨텐츠만 모아놓은 글을 분석하게되면 인기있는 컨텐츠의 키워드가 나오게됩니다. 그래서 해당 키워드를 엑셀로 정리하여 순위를 매긴뒤, 해당 키워드가 포함된 컨텐츠만 찾아서 확인하게되면 높은 확률로 양질의 컨텐츠를 취합하게 될 수 있었습니다. 저의 담당자님께 이러한 방법을 건의하였고, 해당 방법을 채택하여 이 방법으로 대체하여 사용했습니다.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Soldesk
+        caption: 2021.04 - 2021.10
+        sub_title: Java/Spring,Python 교육
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          교육이수시간 : 900시간
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+            https://soldesk.com/index.asp
+      - layout: left
+        title: 한국산업인력공단
+        caption: 2021.11.26
+        sub_title: 정보처리산업기사
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            정보처리산업기사 최종취득.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
@@ -108,9 +114,9 @@ content:
       - Gaming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+#Look at this cool image  
+#![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      
 
 # Footer
 footer_show_references: true
