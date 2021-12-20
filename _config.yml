@@ -63,7 +63,7 @@ content:
         additional_links:
           - title:  주간솜뭉치
             icon: fab fa-github
-            url: https://github.com/sokojh/nodejs_Project00
+            url: sokojh/nodejs_Project00
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -101,7 +101,7 @@ content:
         caption: 2021.11.26
         sub_title: 정보처리산업기사
         quote: >
-          
+          DODO
         description: | # this will include new lines to allow paragraphs
             정보처리산업기사 최종취득.
 
