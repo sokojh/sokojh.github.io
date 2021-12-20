@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <mark>Java & Spring</mark> / <mark>NodeJS</mark>기반 신입 백엔드 개발자입니다.
+  <mark>Java & Spring</mark> / NodeJS기반 신입 백엔드 개발자입니다.
   개인적인 개발 흥미보다, 비즈니스적인 생각과 회사,팀에 도움이 되는 개발을 하기 위해 대규모 MAU를 버틸수있는 아키텍쳐와 AWS 인프라 구축을 위한
   공부를 하는중이며, 이것에 대한 프로젝트는 Node.js 기반 <a href="https://lofty-aerosteon-2dd.notion.site/4e05b39647924e1b92a4bc2345fb212c">주간솜뭉치</a>라는 프로젝트를 진행하였습니다. (이미지서버를 AWS EC2를 이용해 구축하였습니다.) 
 
@@ -93,15 +93,16 @@ content:
         caption: 2021.04 - 2021.10
         sub_title: Java/Spring,Python 교육
         quote: >
-          교육이수시간 : 900시간
+          
         description: | # this will include new lines to allow paragraphs
+            교육이수시간 : 900시간
             https://soldesk.com/index.asp
       - layout: left
         title: 한국산업인력공단
         caption: 2021.11.26
         sub_title: 정보처리산업기사
         quote: >
-          DODO
+          
         description: | # this will include new lines to allow paragraphs
             정보처리산업기사 최종취득.
 
