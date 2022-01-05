@@ -105,7 +105,15 @@ content:
           
         description: | # this will include new lines to allow paragraphs
             정보처리산업기사 최종취득.
-
+      - layout: left
+        title: 코딩애플
+        caption: 2021.09 - 2021.10
+        sub_title: Node.js, MongoDB 교육
+        quote: > 
+      
+        description: | # this will include new lines to allow paragraphs
+            Node.js, MongoDB, Ejs로 풀스택 웹서비스 개발 교육과정
+            <a href="https://codingapple.com/course/node-express-mongodb-server/">교육 RoadMap</a>
 
 #  - title: A Little More About Me
 #    layout: text
