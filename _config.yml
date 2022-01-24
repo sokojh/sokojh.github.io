@@ -90,8 +90,7 @@ content:
         title: NodeJS
          - layout: top-middle
         title: MongoDB
-        - layout: top-middle
-        title: Oracle DB
+
 
 
 
