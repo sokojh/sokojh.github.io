@@ -86,8 +86,7 @@ content:
         #  반려동물을 "솜뭉치"라는 타이틀로 누구나 호감가는 단어를 선정하여 채택했습니다.
         #description: | # this will include new lines to allow paragraphs
         # <mark>MongoDB</mark>를 사용했습니다. 이미지서버는 대규모 부하를 견딜수있는 <mark>AWS S3</mark>를 통해 구축했습니다.
-         - layout: top-middle
-        title: NodeJS
+         
         
 
 
